@@ -10,7 +10,7 @@ printf("Enter the a number")
 scanf("%d",&a);
 printf("Enter the b number")
 scanf("%d",&b);
-
+printf("Hellp world");
 printf("The answer is = %d",sun);
 }
 
